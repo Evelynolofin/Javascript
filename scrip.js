@@ -34,3 +34,12 @@ console.log(mut)
 
 const modul = c%b;
 console.log(modul)
+
+
+const Greater = c>b ? "yes it is correct" : "no, it is wrong";
+console.log(Greater)
+
+let d= 50;
+d++;
+d--;
+console.log(d);
