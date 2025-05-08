@@ -181,3 +181,4 @@ else{
     alert("morbidly obese");
     console.log(BMI);
 }
+
